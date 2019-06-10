@@ -7,6 +7,7 @@ Optimized the Lahman Baseball Dataset containing information about baseball play
 
 Following SQL operations were carried out to ensure data integrity-
 
+* Database creation
 * Created missing tables
 * Primary and Foreign keys relationships
 * Database Normalization 
